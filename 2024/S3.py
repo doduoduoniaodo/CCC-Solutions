@@ -31,7 +31,6 @@ segments.append((r, n-1))
 
 # step 3: find which a[i] for segments[j] using 2 pointers
 i = 0
-j = 0
 left = []
 right = []
 for l, r in segments:
