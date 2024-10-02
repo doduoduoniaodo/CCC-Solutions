@@ -1,21 +1,14 @@
-a = int(input())
+import sys
+input = sys.stdin.readline
 
-b = 0
+n = int(input())
 
-#1
-if a % 4 == 0:
-    b += 1
+# n = 4a + 5b
 
-#2
-if a% 5 == 0:
-    b += 1
+ans = 0
 
-#3
-c = a
-while (c - 4) > 0:
-    c -= 4
-    if c % 5 == 0:
-        b += 1
+for i in range(n//4+1):
+    if (n - 4*i) % 5 == 0:
+        ans += 1
 
-
-print(b)
+print(ans)
