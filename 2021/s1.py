@@ -2,8 +2,8 @@ import sys
 input = sys.stdin.readline
 
 a = int(input())
-b = input().split(' ')
-c = input().split(' ')
+b = input().split()
+c = input().split()
 ans = 0
 for i in range(a):
     if i < a:
