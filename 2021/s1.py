@@ -1,3 +1,6 @@
+import sys
+input = sys.stdin.readline
+
 a = int(input())
 b = input().split(' ')
 c = input().split(' ')
