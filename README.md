@@ -141,6 +141,10 @@
 - [CCC '24 S2 - Heavy-Light Composition](https://dmoj.ca/problem/ccc24s2)
 - [CCC '24 S3 - Swipe](https://dmoj.ca/problem/ccc24s3)
 ## 2025
+- [CCC '25 J1 - Roller Coaster Ride](https://dmoj.ca/problem/ccc25j1)
+- [CCC '25 J2 - Donut Shop](https://dmoj.ca/problem/ccc25j2)
+- [CCC '25 J4 - Sunny Days](https://dmoj.ca/problem/ccc25j4)
+- [CCC '25 J5 - Connecting Territories](https://dmoj.ca/problem/ccc25j5)
 - [CCC '25 S1 - Positioning Peter's Paintings](https://dmoj.ca/problem/ccc25s1)
 - [CCC '25 S2 - Cryptogram Cracking Club](https://dmoj.ca/problem/ccc25s2)
 - [CCC '25 S4 - Floor is Lava](https://dmoj.ca/problem/ccc25s4)
