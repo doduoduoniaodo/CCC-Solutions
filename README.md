@@ -82,6 +82,7 @@
 - [CCC '16 J4 - Arrival Time](https://dmoj.ca/problem/ccc16j4)
 - [CCC '16 S1 - Ragaman](https://dmoj.ca/problem/ccc16s1)
 - [CCC '16 S2 - Tandem Bicycle](https://dmoj.ca/problem/ccc16s2)
+- [CCC '16 S4 - Combining Riceballs](https://dmoj.ca/problem/ccc16s4)
 ## 2017
 - [CCC '17 J1 - Quadrant Selection](https://dmoj.ca/problem/ccc17j1)
 - [CCC '17 J2 - Shifty Sum](https://dmoj.ca/problem/ccc17j2)
