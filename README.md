@@ -10,7 +10,7 @@
 ## 2001
 - [CCC '01 J2 - Mod Inverse](https://dmoj.ca/problem/ccc01j2)
 ## 2002
-- 
+- [CCC '02 S4 - Bridge Crossing](https://dmoj.ca/problem/ccc02s4)
 ## 2003
 - [CCC '03 S2 - Poetry](https://dmoj.ca/problem/ccc03s2)
 - [CCC '03 S3 - Floor Plan](https://dmoj.ca/problem/ccc03s3)
