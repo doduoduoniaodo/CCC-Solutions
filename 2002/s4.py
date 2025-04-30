@@ -12,11 +12,11 @@ group_size = [0]*(q+1)
 
 for i in range(1, q+1):
     cur_max = 0
-    for j in range(1, min(m, i)+1):
-        cur_max = max(cur_max, times[i-j])
-        if dp[i-j] + cur_max < dp[i]:
-            dp[i] = dp[i-j] + cur_max
-            group_size[i] = j
+    for k in range(1, min(m, i)+1):
+        cur_max = max(cur_max, times[i-k])
+        if dp[i-k] + cur_max < dp[i]:
+            dp[i] = dp[i-k] + cur_max
+            group_size[i] = k
 
 groups = []
 i = q
