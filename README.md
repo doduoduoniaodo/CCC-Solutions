@@ -30,6 +30,7 @@
 - [CCC '08 J2 - Do the Shuffle](https://dmoj.ca/problem/ccc08j2)
 - [CCC '08 J4 - From Prefix to Postfix](https://dmoj.ca/problem/ccc08j4)
 - [CCC '08 S3 - Maze](https://dmoj.ca/problem/ccc08s3)
+- [CCC '08 S5 - Nukit](https://dmoj.ca/problem/ccc08s5)
 ## 2009
 - [CCC '09 S1 - Cool Numbers](https://dmoj.ca/problem/ccc09s1)
 - [CCC '09 S3 - Degrees Of Separation](https://dmoj.ca/problem/ccc09s3)
