@@ -29,17 +29,15 @@ while True:
         queue = deque([(x, 0)])
         visited = [False] * 51
         visited[x] = True
-        yes = False
         while queue:
             current, distance = queue.popleft()
             if current == y:
                 print(distance)
-                yes = True
                 break
             for i in adjacent_list[current]:
                 if not visited[i]:
                     visited[i] = True
                     queue.append((i, distance+1))
-        if not yes:
+        else:
             print('Not connected')
     
