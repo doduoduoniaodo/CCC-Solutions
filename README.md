@@ -33,6 +33,7 @@
 - [CCC '08 S5 - Nukit](https://dmoj.ca/problem/ccc08s5)
 ## 2009
 - [CCC '09 S1 - Cool Numbers](https://dmoj.ca/problem/ccc09s1)
+- [CCC '09 S2 - Lights Going On and Off](https://dmoj.ca/problem/ccc09s2)
 - [CCC '09 S3 - Degrees Of Separation](https://dmoj.ca/problem/ccc09s3)
 - [CCC '09 S4 - Shop and Ship](https://dmoj.ca/problem/ccc09s4)
 ## 2010
