@@ -1,18 +1,26 @@
 import sys
 input = sys.stdin.readline
+
 n = int(input())
 freq = [0] * 1001
-for i in range(n):
+for _ in range(n):
     freq[int(input())] += 1
-mx, a = max(freq), []
+
+# 1st highest frequency
+max_f = max(freq)
+a = []
 for i in range(len(freq)):
-    if freq[i] == mx:
+    if freq[i] == max_f:
         a.append(i)
-if len(a) > 1:  # multiple highest frequency
+
+if len(a) > 1:  # multiple 1st highest frequency
     print(a[-1] - a[0])
 else:
-    mx2, b = sorted(freq.copy())[-2], [] # 2nd highest frequency
+    # 2nd highest frequency
+    second_max_f = sorted(freq.copy(), reverse=True)[1]
+    b = []
     for i in range(len(freq)):
-        if freq[i] == mx2:
+        if freq[i] == second_max_f:
             b.append(i)
-    print(max(abs(b[0] - a[0]), abs(b[-1] - a[0])))
+    
+    print(max(abs(max(a) - min(b)), abs(min(a) - max(b))))
