@@ -18,7 +18,6 @@ options = [n + r,           # 1. n giant hops + r baby hops
 
 if n > 0:
     options.append(n-1 + (distance - k*(n-1)))  # 7. taking one fewer giant hop and making up the remaining distance with baby hops
-    options.append(options[-1] + 2)             # 8. after at the destination by method 7., 1 baby hop forwards + 1 backwards
 
 options = sorted(set(options))
 if t == 1:
