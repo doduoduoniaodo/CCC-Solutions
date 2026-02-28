@@ -156,5 +156,6 @@
 ## 2026
 - [CCC '26 J1 - Concert Tickets](https://dmoj.ca/problem/ccc26j1)
 - [CCC '26 J2 - Olympic Scores](https://dmoj.ca/problem/ccc26j2)
+- [CCC '26 J3 - Creative Candy Consumption](https://dmoj.ca/problem/ccc26j3)
 - [CCC '26 S1 - Baby Hop, Giant Hop](https://dmoj.ca/problem/ccc26s1)
 - [CCC '26 S2 - Beams of Light](https://dmoj.ca/problem/ccc26s2)
