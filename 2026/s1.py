@@ -19,6 +19,7 @@ options = [n + r,           # 1. n giant hops + r baby hops
 if n > 0:
     options.append(n-1 + (distance - k*(n-1)))  # 7. taking one fewer giant hop and making up the remaining distance with baby hops
 
+# remove duplicates and sort
 options = sorted(set(options))
 if t == 1:
     print(options[0])
