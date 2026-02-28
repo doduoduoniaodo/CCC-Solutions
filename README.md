@@ -153,3 +153,5 @@
 - [CCC '25 S1 - Positioning Peter's Paintings](https://dmoj.ca/problem/ccc25s1)
 - [CCC '25 S2 - Cryptogram Cracking Club](https://dmoj.ca/problem/ccc25s2)
 - [CCC '25 S4 - Floor is Lava](https://dmoj.ca/problem/ccc25s4)
+## 2026
+- [CCC '26 S2 - Beams of Light](https://dmoj.ca/problem/ccc26s2)
