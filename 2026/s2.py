@@ -1,4 +1,4 @@
-# difference array + prefix sum array
+# difference array (range updates) + prefix sum array (reconstruct)
 
 import sys
 input = sys.stdin.readline
